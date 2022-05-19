@@ -5,38 +5,38 @@
     "icon": "https://favicons.githubusercontent.com/www.agora-oegd.de",
     "slug": "a1",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.02%",
+    "uptimeDay": "0.02%",
+    "uptimeWeek": "0.02%",
+    "uptimeMonth": "0.02%",
+    "uptimeYear": "0.02%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 79
+      "2022-05-19": 195
     }
   },
   {
     "name": "A2",
-    "url": "https://agora-oegd.de",
+    "url": "http://agora-oegd.de",
     "icon": "https://favicons.githubusercontent.com/agora-oegd.de",
     "slug": "a2",
-    "status": "down",
-    "uptime": "0.04%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.04%",
-    "uptimeMonth": "0.04%",
-    "uptimeYear": "0.04%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
+    "time": 2776,
+    "timeDay": 2776,
+    "timeWeek": 2776,
+    "timeMonth": 2776,
+    "timeYear": 2776,
     "dailyMinutesDown": {
-      "2022-05-19": 79
+      "2022-05-19": 195
     }
   },
   {
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 79
+      "2022-05-19": 195
     }
   },
   {
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 569,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
+    "time": 513,
+    "timeDay": 513,
+    "timeWeek": 513,
+    "timeMonth": 513,
+    "timeYear": 513,
     "dailyMinutesDown": {}
   }
 ]
