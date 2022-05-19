@@ -7,6 +7,8 @@ sites:
     url: https://www.agora-oegd.de
   - name: A2
     url: http://agora-oegd.de
+    maxRedirects: 10
+    expectedStatusCodes: 302, 200
   - name: A3
     url: https://forum.agora-oegd.de
   - name: A4
