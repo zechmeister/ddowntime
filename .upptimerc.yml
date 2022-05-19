@@ -17,7 +17,13 @@ sites:
     expectedStatusCodes:
       - 302
       - 200
-  - name: A4
+  - name: forum
+    url: https://forum.agora-oegd.de
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 302
+      - 200
+  - name: IAM
     url: https://nutzerinnenverwaltung.agora-oegd.de
 
 status-website:
