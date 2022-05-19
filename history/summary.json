@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 197
+      "2022-05-19": 198
     }
   },
   {
@@ -43,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/wiki.agora-oegd.de",
     "slug": "wiki",
     "status": "down",
-    "uptime": "28.96%",
-    "uptimeDay": "28.96%",
-    "uptimeWeek": "28.96%",
-    "uptimeMonth": "28.96%",
-    "uptimeYear": "28.96%",
+    "uptime": "8.52%",
+    "uptimeDay": "8.52%",
+    "uptimeWeek": "8.52%",
+    "uptimeMonth": "8.52%",
+    "uptimeYear": "8.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
