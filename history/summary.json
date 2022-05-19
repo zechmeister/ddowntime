@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/www.agora-oegd.de",
     "slug": "a1",
     "status": "down",
-    "uptime": "7.35%",
-    "uptimeDay": "7.35%",
-    "uptimeWeek": "7.35%",
-    "uptimeMonth": "7.35%",
-    "uptimeYear": "7.35%",
+    "uptime": "0.52%",
+    "uptimeDay": "0.52%",
+    "uptimeWeek": "0.52%",
+    "uptimeMonth": "0.52%",
+    "uptimeYear": "0.52%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 6
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/agora-oegd.de",
     "slug": "a2",
     "status": "down",
-    "uptime": "10.02%",
-    "uptimeDay": "10.02%",
-    "uptimeWeek": "10.02%",
-    "uptimeMonth": "10.02%",
-    "uptimeYear": "10.02%",
+    "uptime": "0.37%",
+    "uptimeDay": "0.37%",
+    "uptimeWeek": "0.37%",
+    "uptimeMonth": "0.37%",
+    "uptimeYear": "0.37%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 6
     }
   },
   {
@@ -45,38 +45,38 @@
     "icon": "https://favicons.githubusercontent.com/forum.agora-oegd.de",
     "slug": "a3",
     "status": "down",
-    "uptime": "6.76%",
-    "uptimeDay": "6.76%",
-    "uptimeWeek": "6.76%",
-    "uptimeMonth": "6.76%",
-    "uptimeYear": "6.76%",
+    "uptime": "0.22%",
+    "uptimeDay": "0.22%",
+    "uptimeWeek": "0.22%",
+    "uptimeMonth": "0.22%",
+    "uptimeYear": "0.22%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 6
     }
   },
   {
     "name": "A4",
-    "url": "https://nutzerinnenverwaltung.agora-oegd.de`",
+    "url": "https://nutzerinnenverwaltung.agora-oegd.de",
     "icon": "https://favicons.githubusercontent.com/nutzerinnenverwaltung.agora-oegd.de",
     "slug": "a4",
-    "status": "down",
-    "uptime": "9.44%",
-    "uptimeDay": "9.44%",
-    "uptimeWeek": "9.44%",
-    "uptimeMonth": "9.44%",
-    "uptimeYear": "9.44%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
+    "time": 614,
+    "timeDay": 614,
+    "timeWeek": 614,
+    "timeMonth": 614,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2022-05-19": 0
+      "2022-05-19": 6
     }
   }
 ]
