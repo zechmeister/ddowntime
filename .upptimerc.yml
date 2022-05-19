@@ -6,8 +6,9 @@ sites:
   - name: A1
     url: https://www.agora-oegd.de
   - name: A2
-    url: https://agora-oegd.de
+    url: http://agora-oegd.de
     maxRedirects: 10
+    __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 302
       - 200
