@@ -5,15 +5,18 @@ repo: upptime # The name of this repository
 sites:
   - name: A1
     url: https://www.agora-oegd.de
-  - name: A2
-    url: http://agora-oegd.de
-    maxRedirects: 10
+  - name: Agora_plain
+    url: https://agora-oegd.de
     __dangerous__disable_verify_peer: true
     expectedStatusCodes:
       - 302
       - 200
-  - name: A3
-    url: https://forum.agora-oegd.de
+  - name: wiki
+    url: https://wiki.agora-oegd.de
+    __dangerous__disable_verify_peer: true
+    expectedStatusCodes:
+      - 302
+      - 200
   - name: A4
     url: https://nutzerinnenverwaltung.agora-oegd.de
 
