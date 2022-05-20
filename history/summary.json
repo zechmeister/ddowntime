@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/www.agora-oegd.de",
     "slug": "a1",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 201
+      "2022-05-20": 5,
+      "2022-05-19": 923
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2209,
-    "timeDay": 2209,
-    "timeWeek": 2209,
-    "timeMonth": 2209,
-    "timeYear": 2209,
+    "time": 2345,
+    "timeDay": 2345,
+    "timeWeek": 2345,
+    "timeMonth": 2345,
+    "timeYear": 2345,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/wiki.agora-oegd.de",
     "slug": "wiki",
     "status": "down",
-    "uptime": "0.57%",
-    "uptimeDay": "0.57%",
-    "uptimeWeek": "0.57%",
-    "uptimeMonth": "0.57%",
-    "uptimeYear": "0.57%",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-05-19": 4
+      "2022-05-20": 5,
+      "2022-05-19": 726
     }
   },
   {
@@ -68,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 907,
-    "timeDay": 907,
-    "timeWeek": 907,
-    "timeMonth": 907,
-    "timeYear": 907,
+    "time": 1064,
+    "timeDay": 1064,
+    "timeWeek": 1064,
+    "timeMonth": 1064,
+    "timeYear": 1064,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 479,
-    "timeWeek": 479,
-    "timeMonth": 479,
-    "timeYear": 479,
+    "time": 500,
+    "timeDay": 500,
+    "timeWeek": 500,
+    "timeMonth": 500,
+    "timeYear": 500,
     "dailyMinutesDown": {}
   }
 ]
